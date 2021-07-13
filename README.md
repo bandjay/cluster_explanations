@@ -10,7 +10,7 @@ python , data structures, collections, concurrency , Numpy, clustering algorithm
 Open source contribution to one of (sci-kit learn , pyspark , pycaret) , short paper/blog
 
 ## Observations:
-* Applying supervised learning on cluster groups with assigned cluster labels can also yields interpretable results but supervised learning is error-prone 
+* Applying supervised learning on cluster groups with assigned cluster labels can also yields interpretable results but supervised learning is error-prone. 
 
 
 ## To-dos:
